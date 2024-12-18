@@ -1,3 +1,7 @@
+<p align="center">
+<img src="musicGenereClassification.png?raw=true" alt="MusicGenreClassification" width="250">
+</p>
+
 # Music-Genre-Classification
 -----------------------------------
 <h2>Problem Being Addressed</h2>
